@@ -18,11 +18,15 @@ Here are some ideas to get you started:
   <img align="center" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 </div>
 
-# Hi there! 👋 I'm Siddharth, a Full-stack Developer and an ML Engineer
+# Hi there! 👋 I'm Aheli, an ML Engineer
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-SiddharthGupta-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/cyddharth/)](https://www.linkedin.com/in/cyddharth/)
-[![Twitter](https://img.shields.io/badge/Twitter-SiddharthGupta-blue?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/cyddharth_gupta)](https://twitter.com/cyddharth_gupta)
-[![Portfolio](https://img.shields.io/badge/Portfolio-SGFolio-9cf?style=flat-square&link=https://sgfolio.com)](https://sgfolio.vercel.app)
+<!--[![LinkedIn](https://img.shields.io/badge/LinkedIn-AheliPoddar-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/ahelipoddar/)]([https://www.linkedin.com/in/ahelipoddar/])
+[![Twitter](https://img.shields.io/badge/Twitter-AheliPoddar-blue?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/XAheli)](https://twitter.com/XAheli)-->
+[![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/ahelipoddar) 
+[![Twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/XAheli)
+[![Medium](https://skillicons.dev/icons?i=medium)](https://twitter.com/XAheli)
+![alt text](https://github.com/MonitSharma/Machine-Learning-Visualizations/blob/main/gifs/GradientDescent3D.gif)
+
 
 
 ## 🚀 About Me
