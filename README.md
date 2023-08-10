@@ -40,12 +40,12 @@ Here are some ideas to get you started:
 
 <h2> <img src="https://thumbs.gfycat.com/ScaryCreamyGlobefish.webp" alt="computer" width="65" height="60"> About Me</h2>
 
-🎓 Second-year undergrad, navigating the academic realm.
-💡 Embracing the world of DSA, finding joy in solving complex problems.
-🔍 Exploring the beauty of geometry graphs through patient solving.
-➗ Mathematics enthusiast, particularly drawn to group theory and real analysis.
-📚 Currently engrossed in Nielson & Chuang, unraveling the wonders of quantum.
-⚙️ Intrigued by quantum machine learning and its potential for portfolio optimization.
+- 🎓 Second-year undergrad, navigating the academic realm.
+- 💡 Embracing the world of DSA, finding joy in solving complex problems.
+- 🔍 Exploring the beauty of geometry graphs through patient solving.
+- ➗ Mathematics enthusiast, particularly drawn to group theory and real analysis.
+- 📚 Currently engrossed in Nielson & Chuang, unraveling the wonders of quantum.
+- ⚙️ Intrigued by quantum machine learning and its potential for portfolio optimization.
 
 ## Tools & Statistics 🛠️
 - Quantum Programming Frameworks and Libraries<br>
