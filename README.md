@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 <br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-AheliPoddar-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/ahelipoddar/)]([https://www.linkedin.com/in/ahelipoddar/])
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-AheliPoddar-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/aheli-poddar-263294216/)]([https://www.linkedin.com/in/aheli-poddar-263294216/])
 [![Twitter](https://img.shields.io/badge/Twitter-AheliPoddar-blue?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/XAheli)](https://twitter.com/XAheli)
 
 
