@@ -17,7 +17,8 @@ Here are some ideas to get you started:
 <div id="header" align="center">
   <img align="center" width=1000px height=200px alt="side_sticker" src="https://github.com/saadeghi/saadeghi/blob/master/dino.gif" />
 </div>
-<h1 align="center">নমস্কার 🙏🏻, I'm Aheli Poddar! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h1>
+<h1 align="center"><a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines= নমস্কার +🙏🏻+,+I'm+Aheli+Poddar!;Always%20learning%20new%20things%20:)&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a> </h1>
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 <br>
 <p><em>Striving to become a better contributor &nbsp<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
