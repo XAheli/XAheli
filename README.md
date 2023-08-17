@@ -26,8 +26,10 @@ Here are some ideas to get you started:
 
 <br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-AheliPoddar-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/aheli-poddar-263294216/)]([https://www.linkedin.com/in/aheli-poddar-263294216/])
-[![Twitter](https://img.shields.io/badge/Twitter-AheliPoddar-blue?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/XAheli)](https://twitter.com/XAheli)
+[![Linkedin: AheliPoddar](https://img.shields.io/badge/-AheliPoddar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aheli-poddar-263294216/)](https://www.linkedin.com/in/aheli-poddar-263294216/)
+[![Twitter Follow](https://img.shields.io/twitter/follow/XAheli?label=Follow)](https://twitter.com/intent/follow?screen_name=XAheli)
+![GitHub followers](https://img.shields.io/github/followers/XAheli?label=Follow&style=social)
+![](https://visitor-badge.glitch.me/badge?page_id=XAheli.XAheli)
 
 
 
