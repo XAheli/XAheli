@@ -18,7 +18,7 @@ Here are some ideas to get you started:
   <img align="center" width=750px height=350px alt="side_sticker" src="https://github.com/XAheli/XAheli/blob/main/ghibli.gif" />
 </div>
 <h1 align="center"><a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines= নমস্কার + (Namaste) +🙏🏻+,+I'm+Aheli+!;Always%20learning%20new%20things%20:)&font=Fira%20Code&center=true&width=440&height=45&color=82e2da&vCenter=true&pause=1000&size=22" /></a> </h1>
+    <img src="https://readme-typing-svg.demolab.com/?lines= নমস্কার + (Namaste) +🙏🏻+,+I'm+Aheli+!;I'm%20always%20learning%20new%20things%20:)&font=Fira%20Code&center=true&width=440&height=45&color=82e2da&vCenter=true&pause=1000&size=22" /></a> </h1>
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 <br>
 <p><em>Striving to become a better contributor &nbsp<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
@@ -39,13 +39,6 @@ Here are some ideas to get you started:
     <a href="https://open.spotify.com/user/n6ucfwtlprmz4lop5eqlfnbvx?si=5ecefdabce284f1a"><img height="30" src="https://user-images.githubusercontent.com/48355572/213890881-d6f20dfa-2c5e-4c57-a8d8-d06b276bba50.svg"></a>
 </p>
 
-
-<p align="center"> 
-    
-  Visitors count
-<br>
-<img src="https://profile-counter.glitch.me/XAheli/count.svg" />
-</p>
 
 
 <h2> <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="70" height="65"> A little more about me...</h2>
@@ -118,6 +111,12 @@ Here are some ideas to get you started:
 <!-- [![Aheli's GitHub Stats] -->
 <img style="padding-top: 7px;" src="https://github-readme-streak-stats.herokuapp.com?user=XAheli&theme=blue-green&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=DD272700&stroke=5326DD&fire=DD2727&ring=242EDC&sideNums=25C9DD" alt="XAheli's's GitHub Stats" width="550" />
 
+
+<p align="center"> 
+  Visitors count
+  <br>
+  <img src="https://profile-counter.glitch.me/XAheli/count.svg" />
+</p>
 
 
 
