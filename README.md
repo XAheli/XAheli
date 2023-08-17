@@ -41,12 +41,25 @@ Here are some ideas to get you started:
 
 <h2> <img src="https://thumbs.gfycat.com/ScaryCreamyGlobefish.webp" alt="computer" width="65" height="60"> About Me</h2>
 
-- 🎓 Second-year undergrad, navigating the academic realm.
+- 🎓 Second-year undergrad.
 - 💡 Embracing the world of DSA, finding joy in solving complex problems.
 - 🔍 Exploring the beauty of geometry graphs through patient solving.
 - ➗ Mathematics enthusiast, particularly drawn to group theory and real analysis.
 - 📚 Currently engrossed in Nielson & Chuang, unraveling the wonders of quantum.
 - ⚙️ Intrigued by quantum machine learning and its potential for portfolio optimization.
+- 🔭 I’m currently working on Strong Gravitational Lensing and QCNNs.
+- 🌱 I’m currently learning KDB Tree, Li Chao Tree.
+- 👯 I’m looking to collaborate on 
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/48355572/209539106-8e1cbfc6-2f3d-4afd-b96a-890d967dd9ab.png">
+</p>
 
 ## Tools & Statistics 🛠️
 - Quantum Programming Frameworks and Libraries<br>
@@ -93,8 +106,9 @@ Here are some ideas to get you started:
 <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg' width="5%" height="5%">-->
 ## 📈 GitHub Stats
 
-<!-- [![Siddharth's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Cyddharth-Gupta&show_icons=true&hide=contribs&show=prs&theme=radical)](https://github.com/Cyddharth-Gupta) -->
-[![Aheli's GitHub Stats](https://streak-stats.demolab.com?user=XAheli&theme=vue)](https://git.io/streak-stats)
+<!-- [![Aheli's GitHub Stats] -->
+<img style="padding-top: 7px;" src="https://github-readme-streak-stats.herokuapp.com?user=XAheli&theme=blue-green&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=DD272700&stroke=5326DD&fire=DD2727&ring=242EDC&sideNums=25C9DD" alt="XAheli's's GitHub Stats" width="550" />
+
 
 
 
