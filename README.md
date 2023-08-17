@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 </p>
 
 
-<h2> <img src="https://thumbs.gfycat.com/ScaryCreamyGlobefish.webp" alt="computer" width="65" height="60"> About Me</h2>
+<h2> <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="70" height="65"> A little more about me...</h2>
 
 - 🎓 Second-year undergrad.
 - 💡 Embracing the world of DSA, finding joy in solving complex problems.
