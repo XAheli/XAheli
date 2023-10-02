@@ -44,19 +44,17 @@ Here are some ideas to get you started:
 <h2> <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="70" height="65"> A little more about me...</h2>
 
 - 🎓 Second-year undergrad.
-- 💡 Embracing the world of DSA, finding joy in solving complex problems.
 - 🔍 Exploring the beauty of geometry graphs through patient solving.
-- ➗ Mathematics enthusiast, particularly drawn to group theory and real analysis.
-- 📚 Currently engrossed in Nielson & Chuang, unraveling the wonders of quantum.
+- ➗ Mathematics enthusiast, particularly drawn to stochastic processes and real analysis.
+- 📚 Currently engrossed in Nielson & Chuang.
 - ⚙️ Intrigued by quantum machine learning and its potential for portfolio optimization.
 - 🔭 I’m currently working on Strong Gravitational Lensing and QCNNs.
 - 🌱 I’m currently learning KDB Tree, Li Chao Tree.
-- 👯 I’m looking to collaborate on 
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 👯 I’m looking to collaborate on QML, Monte Carlo Methods.
+- 🤔 I’m looking for help with HMMs.
+- 📫 How to reach me: ahelipoddar2003@gmail.com (quickest option)
+- 😄 Pronouns: she/her
+- ⚡ Fun fact: I'm a huge cinephile and RMD geek!
 
 
 <p align="center">
