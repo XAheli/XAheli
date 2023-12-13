@@ -18,7 +18,19 @@ Here are some ideas to get you started:
   <img align="center" width=750px height=350px alt="side_sticker" src="https://github.com/XAheli/XAheli/blob/main/ghibli.gif" />
 </div>
 <h1 align="center"><a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Satisfy&weight=800&size=23&pause=850&color=0ECFC7&center=true&random=false&width=550&lines=%E0%A6%A8%E0%A6%AE%E0%A6%B8%E0%A7%8D%E0%A6%95%E0%A6%BE%E0%A6%B0+(Namaste)+%2C+It's+Aheli+!;Learning%2C+exploring+and+keeping+it+real+:)" /></a> 
+    <img src="https://readme-typing-svg.demolab.com?font=Satisfy&weight=800&size=23&pause=850&color=0ECFC7&center=true&random=false&width=550&lines=%E0%A6%A8%E0%A6%AE%E0%A6%B8%E0%A7%8D%E0%A6%95%E0%A6%BE%E0%A6%B0+(Namaste)+🙏🏻+%2C+It's+Aheli+!;Learning%2C+exploring+and+keeping+it+real+:)" /></a> 
+
+</h1>
+
+<div align="center">
+<table>
+  <tr>
+    <td>𝚈𝚘𝚞 𝚊𝚛𝚎 𝚟𝚒𝚜𝚒𝚝𝚘𝚛</td>
+    <td><img src="https://profile-counter.glitch.me/Gchism94/count.svg" alt="" /></td>
+  </tr>
+</table>
+</div>
+  
 </h1>
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 <br>
@@ -105,19 +117,19 @@ Here are some ideas to get you started:
 
 <!--<img src='https://cdnq.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg' width="5%" height="5%">
 <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg' width="5%" height="5%">-->
-## 📈 GitHub Stats
+## 📈 My GitHub Stats!
 
 <!-- [![Aheli's GitHub Stats] -->
-<img style="padding-top: 7px;" src="https://github-readme-streak-stats.herokuapp.com?user=XAheli&theme=blue-green&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=DD272700&stroke=5326DD&fire=DD2727&ring=242EDC&sideNums=25C9DD" alt="XAheli's's GitHub Stats" width="550" />
 
-
-<p align="center"> 
-  Visitors count
+<a href="https://github.com/Gchism94">
+  
+  <img height="180em" src="https://streak-stats.demolab.com?user=Gchism94&theme=noctis-minimus&fire=008AE6&ring=38678F" class="center"/>
   <br>
-  <img src="https://profile-counter.glitch.me/XAheli/count.svg" />
-</p>
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Gchism94&theme=noctis_minimus&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Gchism94&theme=noctis_minimus&layout=compact" />
+</a>
 
-
+![Snake animation](https://github.com/Gchism94/Gchism94/raw/output/github-contribution-grid-snake-dark.svg?palette=github-dark)
 
 
 
