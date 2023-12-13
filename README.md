@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 <table>
   <tr>
     <td>𝚈𝚘𝚞 𝚊𝚛𝚎 𝚟𝚒𝚜𝚒𝚝𝚘𝚛</td>
-    <td><img src="https://profile-counter.glitch.me/Gchism94/count.svg" alt="" /></td>
+    <td><img src="https://profile-counter.glitch.me/XAheli/count.svg" alt="" /></td>
   </tr>
 </table>
 </div>
@@ -123,13 +123,13 @@ Here are some ideas to get you started:
 
 <a href="https://github.com/Gchism94">
   
-  <img height="180em" src="https://streak-stats.demolab.com?user=Gchism94&theme=noctis-minimus&fire=008AE6&ring=38678F" class="center"/>
+  <img height="180em" src="https://streak-stats.demolab.com?user=XAheli&theme=noctis-minimus&fire=008AE6&ring=38678F" class="center"/>
   <br>
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Gchism94&theme=noctis_minimus&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Gchism94&theme=noctis_minimus&layout=compact" />
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=XAheli&theme=noctis_minimus&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=XAheli&theme=noctis_minimus&layout=compact" />
 </a>
 
-![Snake animation](https://github.com/Gchism94/Gchism94/raw/output/github-contribution-grid-snake-dark.svg?palette=github-dark)
+![Snake animation](https://github.com/XAheli/XAheli/raw/output/github-contribution-grid-snake-dark.svg?palette=github-dark)
 
 
 
