@@ -18,7 +18,8 @@ Here are some ideas to get you started:
   <img align="center" width=750px height=350px alt="side_sticker" src="https://github.com/XAheli/XAheli/blob/main/ghibli.gif" />
 </div>
 <h1 align="center"><a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines= নমস্কার + (Namaste) +🙏🏻+,+I'm+Aheli+!;I'm%20always%20learning%20new%20things%20:)&font=Fira%20Code&center=true&width=440&height=45&color=82e2da&vCenter=true&pause=1000&size=22" /></a> </h1>
+    <img src="https://readme-typing-svg.demolab.com?font=Satisfy&weight=800&size=23&pause=850&color=0ECFC7&center=true&random=false&width=550&lines=%E0%A6%A8%E0%A6%AE%E0%A6%B8%E0%A7%8D%E0%A6%95%E0%A6%BE%E0%A6%B0+(Namaste)+%2C+It's+Aheli+!;Learning%2C+exploring+and+keeping+it+real+:)" /></a> 
+</h1>
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 <br>
 <p><em>Striving to become a better contributor &nbsp<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
