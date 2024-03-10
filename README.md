@@ -121,6 +121,20 @@ Here are some ideas to get you started:
 
 <!-- [![Aheli's GitHub Stats] -->
 
+[![XAheli's GitHub Stats](https://stats.quine.sh/XAheli/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=XAheli)
+[![XAheli's GitHub | Dependencies](https://stats.quine.sh/XAheli/dependencies?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=XAheli)
+<div style="display: flex; flex-direction: row;">
+    <a href="https://stats.quine.sh/XAheli/topics-over-time?theme=dark" style="flex: 1;">
+        <img src="https://stats.quine.sh/XAheli/topics-over-time?theme=dark" width="500" />
+    </a>
+     <a href="https://stats.quine.sh/XAheli/languages-over-time?theme=dark" style="flex: 1;">
+        <img src="https://stats.quine.sh/XAheli/languages-over-time?theme=dark" width="500" />
+    </a>
+</div>
+
+
+
+<!------------![Snake animation](https://github.com/XAheli/XAheli/raw/output/github-contribution-grid-snake-dark.svg?palette=github-dark)
 <a href="https://github.com/Gchism94">
   
   <img height="180em" src="https://streak-stats.demolab.com?user=XAheli&theme=noctis-minimus&fire=008AE6&ring=38678F" class="center"/>
@@ -129,8 +143,7 @@ Here are some ideas to get you started:
   <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=XAheli&theme=noctis_minimus&layout=compact" />
 </a>
 
-<!------------![Snake animation](https://github.com/XAheli/XAheli/raw/output/github-contribution-grid-snake-dark.svg?palette=github-dark)
-
+ 
 
 
 
