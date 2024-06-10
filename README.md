@@ -43,7 +43,7 @@ Here are some ideas to get you started:
     <a href="https://twitter.com/XAheli"><img height="30" src="https://user-images.githubusercontent.com/48355572/207971257-f667150e-17c2-469c-8f9f-24810c4ab522.svg"></a>&nbsp;&nbsp;
     <a href="https://www.linkedin.com/in/aheli-poddar-263294216/"><img height="30" src="https://user-images.githubusercontent.com/48355572/207971352-d164e286-ffd8-4aac-a95b-88e499cdc386.svg"></a>&nbsp;&nbsp;
     <a href="https://www.facebook.com/aheli.poddar/"><img height="30" src="https://user-images.githubusercontent.com/48355572/207971602-39e1cdba-e93a-4702-abda-52f93049fcbc.svg"></a>&nbsp;&nbsp;
-    <a href="https://www.instagram.com/the__nebulochaotic.aesthete/"><img height="30" src="https://user-images.githubusercontent.com/48355572/207971691-1a612ff3-ac3b-456a-8237-aa74a423b59c.svg"></a>&nbsp;&nbsp;
+    <a href="https://www.instagram.com/xaheli__/"><img height="30" src="https://user-images.githubusercontent.com/48355572/207971691-1a612ff3-ac3b-456a-8237-aa74a423b59c.svg"></a>&nbsp;&nbsp;
     <a href="https://discordapp.com/users/856785270561177600"><img height="30" src="https://user-images.githubusercontent.com/48355572/207971778-7a331eb0-d413-4a03-a142-1370a89f6cb2.svg"></a>&nbsp;&nbsp;
     <a href="https://matrix.to/#/@xaheli:gitter.im"><img height="28" src="https://user-images.githubusercontent.com/48355572/217186918-e775a18c-2b5d-43e6-9218-990b5c02b99c.svg"></a>&nbsp;&nbsp;
     <a href="https://t.me/Apdar_19"><img height="30" src="https://user-images.githubusercontent.com/48355572/236772531-7db4cd51-557a-4c63-8618-10716786ccde.svg"></a>&nbsp;&nbsp;
