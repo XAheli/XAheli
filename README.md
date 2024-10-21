@@ -56,7 +56,7 @@ Here are some ideas to get you started:
 
 <h2> <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="70" height="65"> A little more about me...</h2>
 
-- 🎓 Second-year undergrad.
+- 🎓 Pre Final-year undergrad.
 - 🔍 Exploring the beauty of geometry graphs through patient solving.
 - ➗ Mathematics enthusiast, particularly drawn to stochastic processes and real analysis.
 - 📚 Currently engrossed in Nielson & Chuang.
