@@ -126,30 +126,22 @@ Here are some ideas to get you started:
 
 <!-- [![Aheli's GitHub Stats] -->
 
-[![XAheli's GitHub Stats](https://stats.quine.sh/XAheli/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=XAheli)
-[![XAheli's GitHub | Dependencies](https://stats.quine.sh/XAheli/dependencies?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=XAheli)
-<div style="display: flex; flex-direction: row;">
-    <a href="https://stats.quine.sh/XAheli/topics-over-time?theme=dark" style="flex: 1;">
-        <img src="https://stats.quine.sh/XAheli/topics-over-time?theme=dark" width="500" />
-    </a>
-     <a href="https://stats.quine.sh/XAheli/languages-over-time?theme=dark" style="flex: 1;">
-        <img src="https://stats.quine.sh/XAheli/languages-over-time?theme=dark" width="500" />
-    </a>
-</div>
+
+<a href="https://github.com/XAheli/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=XAheli" />
+</a>
+<a href="https://github.com/XAheli/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=XAheli&layout=compact&langs_count=8&card_width=320" />
+</a>
 
 
 
-<div>
+## 🎋 Activity!
 
-<br/>
-
-<img src="https://user-images.githubusercontent.com/48355572/272910172-1266ac8f-a1de-43d9-94f9-44a0a90b67a0.png" alt="Activity" width="130px"/>
-<table><tr><td valign="top" width="41%">
-<a href="https://www.instagram.com/neilzblaze"><img src="https://res.cloudinary.com/dutfy6mlc/image/upload/v1696511607/j716mmpp877n3lvlvck5.webp" width="413px"></a>
 </td><td valign="top" width="40%">
-<a href="https://open.spotify.com/user/n6ucfwtlprmz4lop5eqlfnbvx"><img src="https://spotify-recently-played-readme.vercel.app/api?user=31okuur5huofrrd3n6y6v2gyrjx4&width=380&count=2" width="380px"></a>
+<a href="https://open.spotify.com/user/n6ucfwtlprmz4lop5eqlfnbvx"><img src="https://spotify-recently-played-readme.vercel.app/api?user=n6ucfwtlprmz4lop5eqlfnbvx&width=400&count=3" width="380px"></a>
 </td><td valign="top" width="18%">
-<a href="https://calendly.com/ahelipoddar2003/30min"><img src="https://i.postimg.cc/8zMy25r3/schedule-Ca-L.webp" width="210px"></a>
+<a href="https://calendly.com/ahelipoddar2003/30min"><img src="https://i.postimg.cc/8zMy25r3/schedule-Ca-L.webp" width="205px"></a>
 </td></tr></table>
 
 <br/>
