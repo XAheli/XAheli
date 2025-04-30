@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ....
 -->
 <div id="header" align="center">
   <img align="center" width=750px height=350px alt="side_sticker" src="https://github.com/XAheli/XAheli/blob/main/ghibli.gif" />
@@ -139,16 +139,19 @@ Here are some ideas to get you started:
 
 
 
-<!------------![Snake animation](https://github.com/XAheli/XAheli/raw/output/github-contribution-grid-snake-dark.svg?palette=github-dark)
-<a href="https://github.com/Gchism94">
-  
-  <img height="180em" src="https://streak-stats.demolab.com?user=XAheli&theme=noctis-minimus&fire=008AE6&ring=38678F" class="center"/>
-  <br>
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=XAheli&theme=noctis_minimus&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=XAheli&theme=noctis_minimus&layout=compact" />
-</a>
+<div>
 
- 
+<br/>
 
+<img src="https://user-images.githubusercontent.com/48355572/272910172-1266ac8f-a1de-43d9-94f9-44a0a90b67a0.png" alt="Activity" width="130px"/>
+<table><tr><td valign="top" width="41%">
+<a href="https://www.instagram.com/neilzblaze"><img src="https://res.cloudinary.com/dutfy6mlc/image/upload/v1696511607/j716mmpp877n3lvlvck5.webp" width="413px"></a>
+</td><td valign="top" width="40%">
+<a href="https://open.spotify.com/user/n6ucfwtlprmz4lop5eqlfnbvx"><img src="https://spotify-recently-played-readme.vercel.app/api?user=31okuur5huofrrd3n6y6v2gyrjx4&width=380&count=2" width="380px"></a>
+</td><td valign="top" width="18%">
+<a href="https://calendly.com/ahelipoddar2003/30min"><img src="https://i.postimg.cc/8zMy25r3/schedule-Ca-L.webp" width="210px"></a>
+</td></tr></table>
+
+<br/>
 
 
