@@ -16,9 +16,12 @@ Here are some ideas to get you started:
 -->
 <div id="header" align="center">
   <img align="center" width=750px height=350px alt="side_sticker" src="https://github.com/XAheli/XAheli/blob/main/ghibli.gif" />
+
 </div>
-<h1 align="center"><a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Satisfy&weight=800&size=23&pause=850&color=0ECFC7&center=true&random=false&width=550&lines=%E0%A6%A8%E0%A6%AE%E0%A6%B8%E0%A7%8D%E0%A6%95%E0%A6%BE%E0%A6%B0+(Namaste)+🙏🏻+%2C+It's+Aheli+!;Learning%2C+exploring+and+keeping+it+real+:)" /></a> 
+<h1 align="center"><a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Hind+Siliguri&pause=1000&color=2EC8F7&center=true&width=435&lines=%E0%A6%A8%E0%A6%AE%E0%A6%B8%E0%A7%8D%E0%A6%95%E0%A6%BE%E0%A6%B0+%F0%9F%99%8F+!!+This+is+Aheli+:);Learning%2C+exploring+and+keeping+it+real+!" />
+</a>
+
 
 </h1>
 
@@ -61,7 +64,7 @@ Here are some ideas to get you started:
 
 <h2> <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="70" height="65"> A little more about me...</h2>
 
-- 🎓 Pre Final-year undergrad.
+- 🎓 Final year undergrad.
 - 🔍 Exploring the beauty of geometry graphs through patient solving.
 - ➗ Mathematics enthusiast, particularly drawn to stochastic processes and real analysis.
 - 📚 Currently engrossed in Nielson & Chuang.
