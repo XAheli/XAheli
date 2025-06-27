@@ -149,4 +149,5 @@ Here are some ideas to get you started:
 
 <br/>
 
+![Aheli Poddar](./bottom_header.svg)
 
