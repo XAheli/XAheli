@@ -28,11 +28,12 @@ Here are some ideas to get you started:
 <div align="center">
 <table>
   <tr>
-    <td>𝚈𝚘𝚞 𝚊𝚛𝚎 𝚟𝚒𝚜𝚒𝚝𝚘𝚛</td>
-    <td><img src="https://profile-counter.glitch.me/XAheli/count.svg" alt="" /></td>
+<!--     <td>𝚈𝚘𝚞 𝚊𝚛𝚎 𝚟𝚒𝚜𝚒𝚝𝚘𝚛</td> -->
+    <td><img src="https://komarev.com/ghpvc/?username=XAheli&style=for-the-badge&color=46b9b9&label=You+are+Visitor&base=3985" alt="GitHub Profile Views Counter" /></td>
   </tr>
 </table>
 </div>
+
 
 <div align="center">
   <a href="https://github.com/sponsors/XAheli">
